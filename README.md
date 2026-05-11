@@ -8,7 +8,7 @@
 <!-- ╔══════════════════════════════════════╗ -->
 <!--         ANIMATED HEADER BANNER         -->
 <!-- ╚══════════════════════════════════════╝ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Laroiba%20Syifauttamam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Versatile%20Software%20Engineer%20%7C%20Bridging%20Business%20%26%20Technology&descAlignY=60&descSize=16&descColor=a8d8ea&stroke=00D2FF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Laroiba%20Syifauttamam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Versatile%20Software%20Engineer%20%7C%20Bridging%20Business%20and%20Technology&descAlignY=60&descSize=16&descColor=a8d8ea&stroke=00D2FF&strokeWidth=1"/>
 
 <!-- ╔══════════════════════════════════════╗ -->
 <!--           TYPING SVG ANIMATION         -->
@@ -54,7 +54,7 @@
 ```typescript
 /**
  * ╔══════════════════════════════════════════════════════════════╗
- * ║           Laroiba Syifauttamam  @  github/Hiyakki           ║
+ * ║           Laroiba Syifauttamam  @  github/Hiyakki            ║
  * ╚══════════════════════════════════════════════════════════════╝
  */
 const Laroiba: Developer = {
@@ -352,15 +352,13 @@ const Laroiba: Developer = {
 ## 📊 &nbsp; Profile Metrics
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Hiyakki&label=👁️+Profile+Views&color=00D2FF&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=Hiyakki&label=👁️%20Profile%20Views&color=00D2FF&style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Hiyakki?label=👥+Followers&style=for-the-badge&color=3A7BD5&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/Hiyakki?label=Followers&logo=github&style=for-the-badge&color=3A7BD5&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Hiyakki?label=⭐+Stars&style=for-the-badge&color=FFD700&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⭐_Stars-Check_My_Repos-FFD700?style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🏆_BNSP-Certified-22C55E?style=for-the-badge&labelColor=0D1117"/>
-
 </div>
 
 <br/>
