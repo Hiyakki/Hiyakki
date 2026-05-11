@@ -5,30 +5,22 @@
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════╗ -->
-<!--         ANIMATED HEADER BANNER         -->
-<!-- ╚══════════════════════════════════════╝ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Laroiba%20Syifauttamam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Versatile%20Software%20Engineer%20%7C%20Bridging%20Business%20and%20Technology&descAlignY=60&descSize=16&descColor=a8d8ea&stroke=00D2FF&strokeWidth=1"/>
 
-<!-- ╔══════════════════════════════════════╗ -->
-<!--           TYPING SVG ANIMATION         -->
-<!-- ╚══════════════════════════════════════╝ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00D2FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=⚡+Backend+Developer;🌐+Web+Developer;🛠+Software+Engineer;🚀+Full+Stack+Developer;📊+System+Analyst;📱+Mobile+Developer;🔍+QA+Engineer;📋+Business+Analyst;🏗+Building+scalable+web+%26+mobile+apps;💡+Turning+ideas+into+real+products;🤝+Open+to+Work+%E2%80%94+Let%27s+Collaborate!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00D2FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=%E2%9A%A1+Backend+Developer;%F0%9F%8C%90+Web+Developer;%F0%9F%9B%A0+Software+Engineer;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%93%8A+System+Analyst;%F0%9F%93%B1+Mobile+Developer;%F0%9F%94%8D+QA+Engineer;%F0%9F%93%8B+Business+Analyst;%F0%9F%8F%97+Building+scalable+apps;%F0%9F%92%A1+Turning+ideas+into+products;%F0%9F%A4%9D+Open+to+Work+%E2%80%94+Let's+Collaborate!" />
 
 <br/>
 
-<!-- ╔══════════════════════════════════════╗ -->
-<!--             STATUS BADGES              -->
-<!-- ╚══════════════════════════════════════╝ -->
 <p>
   <img src="https://img.shields.io/badge/🟢_STATUS-Open%20To%20Work-00D2FF?style=for-the-badge&labelColor=0D1117"/>
   &nbsp;
   <img src="https://img.shields.io/badge/📍_LOCATION-Indonesia%20🇮🇩-3A7BD5?style=for-the-badge&labelColor=0D1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_DEGREE-Informatics%20Engineering-7B2FBE?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎓_DEGREE-Telkom%20University-7B2FBE?style=for-the-badge&labelColor=0D1117"/>
   &nbsp;
   <img src="https://img.shields.io/badge/⚡_FOCUS-Backend%20%26%20Systems-FF6B35?style=for-the-badge&labelColor=0D1117"/>
 </p>
+
 
 <!-- Profile Metrics Inline -->
 <p>
