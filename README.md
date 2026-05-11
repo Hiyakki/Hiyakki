@@ -21,16 +21,6 @@
   <img src="https://img.shields.io/badge/⚡_FOCUS-Backend%20%26%20Systems-FF6B35?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
-
-<!-- Profile Metrics Inline -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Hiyakki&label=👁️+Profile+Views&color=00D2FF&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Hiyakki?label=👥+Followers&style=flat-square&color=3A7BD5&labelColor=0D1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Hiyakki?label=⭐+Stars&style=flat-square&color=FFD700&labelColor=0D1117"/>
-</p>
-
 </div>
 
 <br/>
